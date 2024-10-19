@@ -1,0 +1,7 @@
+C:\Users\GLOBALPRO\source\repos\Ejercicio 3 Formativo 18 de octubre\Ejercicio 3 Formativo 18 de octubre\bin\Debug\Ejercicio 3 Formativo 18 de octubre.exe.config
+C:\Users\GLOBALPRO\source\repos\Ejercicio 3 Formativo 18 de octubre\Ejercicio 3 Formativo 18 de octubre\bin\Debug\Ejercicio 3 Formativo 18 de octubre.exe
+C:\Users\GLOBALPRO\source\repos\Ejercicio 3 Formativo 18 de octubre\Ejercicio 3 Formativo 18 de octubre\bin\Debug\Ejercicio 3 Formativo 18 de octubre.pdb
+C:\Users\GLOBALPRO\source\repos\Ejercicio 3 Formativo 18 de octubre\Ejercicio 3 Formativo 18 de octubre\obj\Debug\Ejercicio 3 Formativo 18 de octubre.csproj.AssemblyReference.cache
+C:\Users\GLOBALPRO\source\repos\Ejercicio 3 Formativo 18 de octubre\Ejercicio 3 Formativo 18 de octubre\obj\Debug\Ejercicio 3 Formativo 18 de octubre.csproj.CoreCompileInputs.cache
+C:\Users\GLOBALPRO\source\repos\Ejercicio 3 Formativo 18 de octubre\Ejercicio 3 Formativo 18 de octubre\obj\Debug\Ejercicio 3 Formativo 18 de octubre.exe
+C:\Users\GLOBALPRO\source\repos\Ejercicio 3 Formativo 18 de octubre\Ejercicio 3 Formativo 18 de octubre\obj\Debug\Ejercicio 3 Formativo 18 de octubre.pdb
