@@ -1,0 +1,7 @@
+C:\Users\GLOBALPRO\source\repos\Ejercicio 2 del domimgio\Ejercicio 2 del domimgio\bin\Debug\Ejercicio 2 del domimgio.exe.config
+C:\Users\GLOBALPRO\source\repos\Ejercicio 2 del domimgio\Ejercicio 2 del domimgio\bin\Debug\Ejercicio 2 del domimgio.exe
+C:\Users\GLOBALPRO\source\repos\Ejercicio 2 del domimgio\Ejercicio 2 del domimgio\bin\Debug\Ejercicio 2 del domimgio.pdb
+C:\Users\GLOBALPRO\source\repos\Ejercicio 2 del domimgio\Ejercicio 2 del domimgio\obj\Debug\Ejercicio 2 del domimgio.csproj.AssemblyReference.cache
+C:\Users\GLOBALPRO\source\repos\Ejercicio 2 del domimgio\Ejercicio 2 del domimgio\obj\Debug\Ejercicio 2 del domimgio.csproj.CoreCompileInputs.cache
+C:\Users\GLOBALPRO\source\repos\Ejercicio 2 del domimgio\Ejercicio 2 del domimgio\obj\Debug\Ejercicio 2 del domimgio.exe
+C:\Users\GLOBALPRO\source\repos\Ejercicio 2 del domimgio\Ejercicio 2 del domimgio\obj\Debug\Ejercicio 2 del domimgio.pdb
