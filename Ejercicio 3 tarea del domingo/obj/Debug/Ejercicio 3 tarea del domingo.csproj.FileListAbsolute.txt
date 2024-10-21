@@ -1,7 +1,0 @@
-C:\Users\GLOBALPRO\source\repos\Ejercicio 3 tarea del domingo\Ejercicio 3 tarea del domingo\bin\Debug\Ejercicio 3 tarea del domingo.exe.config
-C:\Users\GLOBALPRO\source\repos\Ejercicio 3 tarea del domingo\Ejercicio 3 tarea del domingo\bin\Debug\Ejercicio 3 tarea del domingo.exe
-C:\Users\GLOBALPRO\source\repos\Ejercicio 3 tarea del domingo\Ejercicio 3 tarea del domingo\bin\Debug\Ejercicio 3 tarea del domingo.pdb
-C:\Users\GLOBALPRO\source\repos\Ejercicio 3 tarea del domingo\Ejercicio 3 tarea del domingo\obj\Debug\Ejercicio 3 tarea del domingo.csproj.AssemblyReference.cache
-C:\Users\GLOBALPRO\source\repos\Ejercicio 3 tarea del domingo\Ejercicio 3 tarea del domingo\obj\Debug\Ejercicio 3 tarea del domingo.csproj.CoreCompileInputs.cache
-C:\Users\GLOBALPRO\source\repos\Ejercicio 3 tarea del domingo\Ejercicio 3 tarea del domingo\obj\Debug\Ejercicio 3 tarea del domingo.exe
-C:\Users\GLOBALPRO\source\repos\Ejercicio 3 tarea del domingo\Ejercicio 3 tarea del domingo\obj\Debug\Ejercicio 3 tarea del domingo.pdb
